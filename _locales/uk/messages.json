@@ -1,5 +1,5 @@
 {
-	"ext_name":                   {"message": "VoKadio — плеєр для ВКонтактi"},
+	"ext_name":                   {"message": "exVoKadio — плеєр для ВКонтактi"},
 	"ext_description":            {"message": "Слухайте і насолоджуйтесь Вашою улюбленою музикою на сайті ВКонтакті за допомогою аудіоплеєра VoKadio!"},
 
 	"download":                   {"message": "Завантажити аудіозапис"},
@@ -49,7 +49,7 @@
 	"notification_show":          {"message": "Завжди показувати"},
 	"thanks":                     {"message": "Дякуємо!"},
 	"donate_disclaimer":          {"message": "Ваша підтримка допоможе<br/> розвитку VoKadio"},
-	
+
 	"hotkeys_section": {"message": "
 		<h2>Гарячі клавіші</h2>
 		<ul>
