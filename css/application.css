@@ -688,7 +688,7 @@ input, button
 
             .tracklist ol
             {
-                list-style-position: inside;
+                /*list-style-position: inside;*/
                 width: 100%;
                 min-height: 325px;
                 height: 100%;
